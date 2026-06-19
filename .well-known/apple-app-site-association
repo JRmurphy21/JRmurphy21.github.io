@@ -1,0 +1,12 @@
+{
+    "applinks": {
+      "details": [
+        {
+          "appIDs": ["LDF745S76U.baldwizard.DebtPets"],
+          "components": [
+            { "/": "/plaid-oauth" }
+          ] 
+        } 
+      ] 
+    } 
+  } 
